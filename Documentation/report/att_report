@@ -1,0 +1,19 @@
+\usepackage{graphicx}
+\usepackage[procnames]{listings}
+\usepackage{amsmath}
+\usepackage[utf8]{inputenc}
+
+\renewcommand{\baselinestretch}{1.55}
+
+% Title Page
+\title{Anti-Theft Tracking and Location Detection}
+\author{}
+
+
+\begin{document}
+\maketitle
+
+\begin{abstract}
+\end{abstract}
+
+\end{document}          
