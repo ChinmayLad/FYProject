@@ -1,15 +1,15 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2015.7.7)  14 AUG 2015 19:13
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2015/dev/Debian) (preloaded format=pdflatex 2015.8.25)  25 AUG 2015 19:48
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **att_report.tex
 (./att_report.tex
-LaTeX2e <2011/06/27>
-Babel <3.9h> and hyphenation patterns for 2 languages loaded.
+LaTeX2e <2014/05/01>
+Babel <3.9l> and hyphenation patterns for 2 languages loaded.
 (/usr/share/texlive/texmf-dist/tex/latex/base/report.cls
-Document Class: report 2007/10/19 v1.4h Standard LaTeX document class
+Document Class: report 2014/09/29 v1.4h Standard LaTeX document class
 (/usr/share/texlive/texmf-dist/tex/latex/base/size10.clo
-File: size10.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 )
 \c@part=\count79
 \c@chapter=\count80
@@ -25,10 +25,10 @@ File: size10.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
 \bibindent=\dimen102
 )
 (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
-Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+Package: graphicx 2014/04/25 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
 
 (/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
-Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+Package: keyval 2014/05/08 v1.15 key=value parser (DPC)
 \KV@toks@=\toks14
 )
 (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
@@ -71,15 +71,15 @@ Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
 \lst@maxwidth=\dimen108
 
 (/usr/share/texlive/texmf-dist/tex/latex/listings/lstmisc.sty
-File: lstmisc.sty 2013/08/26 1.5b (Carsten Heinz)
+File: lstmisc.sty 2014/09/06 1.5e (Carsten Heinz)
 \c@lstnumber=\count95
 \lst@skipnumbers=\count96
 \lst@framebox=\box27
 )
 (/usr/share/texlive/texmf-dist/tex/latex/listings/listings.cfg
-File: listings.cfg 2013/08/26 1.5b listings configuration
+File: listings.cfg 2014/09/06 1.5e listings configuration
 ))
-Package: listings 2013/08/26 1.5b (Carsten Heinz)
+Package: listings 2014/09/06 1.5e (Carsten Heinz)
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
 Package: amsmath 2013/01/14 v2.14 AMS math features
@@ -140,19 +140,19 @@ LaTeX Info: Redefining \[ on input line 2665.
 LaTeX Info: Redefining \] on input line 2666.
 )
 (/usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty
-Package: inputenc 2008/03/30 v1.1d Input encoding file
+Package: inputenc 2014/04/30 v1.2b Input encoding file
 \inpenc@prehook=\toks21
 \inpenc@posthook=\toks22
 
 (/usr/share/texlive/texmf-dist/tex/latex/base/utf8.def
-File: utf8.def 2008/04/05 v1.1m UTF-8 support for inputenc
+File: utf8.def 2014/09/29 v1.1m UTF-8 support for inputenc
 Now handling font encoding OML ...
 ... no UTF-8 mapping file for font encoding OML
 Now handling font encoding T1 ...
 ... processing UTF-8 mapping file for font encoding T1
 
 (/usr/share/texlive/texmf-dist/tex/latex/base/t1enc.dfu
-File: t1enc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
+File: t1enc.dfu 2014/09/29 v1.1m UTF-8 support for inputenc
    defining Unicode char U+00A1 (decimal 161)
    defining Unicode char U+00A3 (decimal 163)
    defining Unicode char U+00AB (decimal 171)
@@ -302,7 +302,7 @@ Now handling font encoding OT1 ...
 ... processing UTF-8 mapping file for font encoding OT1
 
 (/usr/share/texlive/texmf-dist/tex/latex/base/ot1enc.dfu
-File: ot1enc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
+File: ot1enc.dfu 2014/09/29 v1.1m UTF-8 support for inputenc
    defining Unicode char U+00A1 (decimal 161)
    defining Unicode char U+00A3 (decimal 163)
    defining Unicode char U+00B8 (decimal 184)
@@ -333,7 +333,7 @@ Now handling font encoding OMS ...
 ... processing UTF-8 mapping file for font encoding OMS
 
 (/usr/share/texlive/texmf-dist/tex/latex/base/omsenc.dfu
-File: omsenc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
+File: omsenc.dfu 2014/09/29 v1.1m UTF-8 support for inputenc
    defining Unicode char U+00A7 (decimal 167)
    defining Unicode char U+00B6 (decimal 182)
    defining Unicode char U+00B7 (decimal 183)
@@ -451,7 +451,7 @@ Chapter 1.
 Chapter 2.
 LaTeX Font Info:    Try loading font information for OMS+cmr on input line 24.
 (/usr/share/texlive/texmf-dist/tex/latex/base/omscmr.fd
-File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 24.
@@ -479,26 +479,44 @@ Underfull \hbox (badness 10000) in paragraph at lines 55--56
 
 [8
 
-] [9] [10] [11
+] <images/scenea.png, id=36, 523.20468pt x 238.64156pt>
+File: images/scenea.png Graphic file (type png)
+
+<use images/scenea.png>
+Package pdftex.def Info: images/scenea.png used on input line 60.
+(pdftex.def)             Requested size: 366.24077pt x 167.04794pt.
+
+Overfull \hbox (21.24077pt too wide) in paragraph at lines 59--61
+[] 
+ []
+
+[9 <./images/scenea.png>]
+<images/sceneb.png, id=40, 429.10312pt x 335.00156pt>
+File: images/sceneb.png Graphic file (type png)
+ <use images/sceneb.png>
+Package pdftex.def Info: images/sceneb.png used on input line 64.
+(pdftex.def)             Requested size: 300.37013pt x 234.49948pt.
+
+[10 <./images/sceneb.png>] [11
 
 ] [12] (./att_report.aux) ) 
 Here is how much of TeX's memory you used:
- 3698 strings out of 495028
- 49743 string characters out of 6181498
- 110759 words of memory out of 5000000
- 6868 multiletter control sequences out of 15000+600000
+ 3711 strings out of 495020
+ 49972 string characters out of 6181324
+ 110823 words of memory out of 5000000
+ 6882 multiletter control sequences out of 15000+600000
  10542 words of font info for 38 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 38i,6n,32p,1226b,230s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 38i,6n,32p,1235b,230s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/am
 sfonts/cm/cmbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts
 /cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cm
 r10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb
 ></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on att_report.pdf (13 pages, 90277 bytes).
+Output written on att_report.pdf (13 pages, 108901 bytes).
 PDF statistics:
- 67 PDF objects out of 1000 (max. 8388607)
+ 69 PDF objects out of 1000 (max. 8388607)
  46 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 11 words of extra memory for PDF output out of 10000 (max. 10000000)
 
