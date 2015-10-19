@@ -1,6 +1,6 @@
 # FYProject
 
-# Project Name: ANT/ATTLD
+# Project Name: ATTLD
 
 Contains all the research and links that were visited.
 
