@@ -11,3 +11,6 @@ http://www.adafruit.com/products/659
 
 BLE scan rssi value VIEWING :http://stackoverflow.com/questions/22198466/how-to-detect-ble-rssi-values  
 BLE continuous scanning rssi values: http://stackoverflow.com/questions/20058450/how-to-continuously-get-rssi-without-connecting-to-the-ble-device  
+  
+  
+Custom ListView : https://www.caveofprogramming.com/guest-posts/custom-listview-with-imageview-and-textview-in-android.html  
