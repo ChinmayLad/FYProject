@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto" >
+    <item
+        android:title="@string/edit_string"
+        android:id="@+id/context_edit"
+        android:orderInCategory="156"
+        />
+    <item
+        android:title="@string/delete_string"
+        android:id="@+id/context_delete"
+        android:orderInCategory="155"
+        />
+    <item
+        android:title="@string/tag_string"
+        android:id="@+id/context_tag"
+        android:orderInCategory="154"
+        />
+
+    <item
+        android:title="@string/untag_string"
+        android:id="@+id/context_untag"
+        android:orderInCategory="157"
+        />
+</menu>
